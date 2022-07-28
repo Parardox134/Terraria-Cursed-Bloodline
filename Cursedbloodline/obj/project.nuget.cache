@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U7Zw8+JyFVVH4b0LrmzeUQFqgYPyCsTZ6gb8eHnBoG1dzAfLYSQS/wtfHW++EhaAd9wDbQgoBIR57G/dZfeelA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fardy\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Cursedbloodline\\Cursedbloodline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fardy\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
